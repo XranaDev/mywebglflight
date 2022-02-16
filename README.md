@@ -1,2 +1,0 @@
-# mywebglflight
-mywebglflight
